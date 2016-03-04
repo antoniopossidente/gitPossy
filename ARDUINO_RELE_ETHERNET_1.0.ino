@@ -13,7 +13,7 @@
 // This code is also intended to use with "Tasker" and "Commandr" app for Android
 
 // IT'S NORMAL THAT THE CODE PRODUCE A LOT OF WARNING DURING COMPILATION TIME
-// I HOPE THAT I CAN FIX IT IN NEXT RELASE 
+// I HOPE THAT I CAN FIX IT IN THE NEXT RELASE 
 
 #include <EtherCard.h>
 
