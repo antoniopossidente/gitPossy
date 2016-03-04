@@ -1,4 +1,4 @@
-// Arduino 1.0 sketch for controlling relay over ethernet whit ENC28J60
+// Arduino 1.0 sketch for controlling relay over ethernet with ENC28J60
 //
 // Original author: Antonio Possidente
 // Major write and API overhaul, 2016-04-03
